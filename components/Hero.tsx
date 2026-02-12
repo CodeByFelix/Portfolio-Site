@@ -92,7 +92,7 @@ export function Hero() {
           <div className="mt-5 flex gap-4">
             <div className="relative h-32 w-32 shrink-0 overflow-hidden rounded-2xl border border-slate-700/70 bg-slate-900/80">
               <Image
-                src="/images/felix-profile.png"
+                src="/images/felix-profile1.png"
                 alt="Portrait style illustration representing Felix Ibeamaka, AI Engineer"
                 fill
                 className="object-cover"
